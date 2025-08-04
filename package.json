@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "start": "parcel first.html"
+    "start": "parcel first.html",
+    "build": "parcel build first.html"
   },
   "repository": {
     "type": "git",
